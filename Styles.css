@@ -190,6 +190,7 @@ iframe gal {
 
 @media (max-width:480px){
 body {
+	background-image: url(https://lh4.googleusercontent.com/-oiy1ykt4cQ0/VRflOO0kWPI/AAAAAAAAs7Q/NOE5X0Wt_VY/s144/liquid.png);
 	margin-left: 1%;
 	margin-right: 1%;
 	/* [disabled]height: 20%; */
@@ -199,6 +200,6 @@ body {
 	right: 1%;
 	bottom: 2%;
 	top: 30%;
-	background-color: #FCEED0;
+	background-color: #FFFFFF;
 }
 }
